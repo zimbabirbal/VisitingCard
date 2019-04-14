@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VisitingCard.ImageTransition"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Image x:Name="image" Aspect="AspectFit"></Image>
+                <Entry x:Name="entry" Placeholder="Name"></Entry>
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="pickPhoto" Text="Pick Photo" Clicked="PickPhoto_Clicked"></Button>
+                    <Button x:Name="capturePhoto" Text="Capture Photo" Clicked="CapturePhoto_Clicked"></Button>
+                    <Button x:Name="back" Text="Back" Clicked="Back_Clicked"></Button>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

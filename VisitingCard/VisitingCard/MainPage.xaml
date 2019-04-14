@@ -2,13 +2,26 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:VisitingCard"
-             x:Class="VisitingCard.MainPage">
+             x:Class="VisitingCard.MainPage"
+             NavigationPage.HasNavigationBar="False">
 
-    <StackLayout>
+    <StackLayout x:Name="stklayout">
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <ScrollView>
+            <StackLayout>
+                <Grid x:Name="imageGrid"></Grid>               
+            </StackLayout>
+        </ScrollView>
+        <AbsoluteLayout VerticalOptions="End"
+                    HorizontalOptions="Fill"
+                    HeightRequest="56">
+            <StackLayout VerticalOptions="Center"
+                         HorizontalOptions="FillAndExpand"
+                HeightRequest="48" Orientation="Horizontal" Padding="8">
+                <Button x:Name="next" Text="Next" Clicked="Next_Clicked"></Button>
+            </StackLayout>
+        </AbsoluteLayout>
+
     </StackLayout>
 
 </ContentPage>

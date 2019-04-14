@@ -1,0 +1,14 @@
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\bin\Debug\netstandard2.0\VisitingCard.deps.json
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\bin\Debug\netstandard2.0\VisitingCard.dll
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\bin\Debug\netstandard2.0\VisitingCard.pdb
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\CustomController\ImageItem.xaml.g.cs
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\ImageTransition.xaml.g.cs
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.csproj.CoreCompileInputs.cache
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.AssemblyInfoInputs.cache
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.AssemblyInfo.cs
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.dll
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.pdb
+C:\Users\taman\Documents\Projects\VisitingCard\VisitingCard\VisitingCard\VisitingCard\obj\Debug\netstandard2.0\VisitingCard.csprojAssemblyReference.cache
